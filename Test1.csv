@@ -1,0 +1,383 @@
+Sector,Years of Operation,What They Did,How Much They Raised,Why They Failed,Takeaway,Giants,No Budget,Competition,Poor Market Fit,Acquisition Stagnation,Platform Dependency,Monetization Failure,Niche Limits,Execution Flaws,Trend Shifts,Toxicity/Trust Issues,Regulatory Pressure,Overhype
+Finance and Insurance,11,Online personal loans,655.0,Lost to LendingClub and high defaults,Lending needs risk balance,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,6,Micropayments platform,2.0,Lost to PayPal and low adoption,Micropayments need mass use,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,5,Portfolio tracking tool,3.0,Lost to Mint and sold to TradeKing,Finance tools need scale,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,10,Crypto payments and stablecoin,500.0,Lost to Coinbase and market shifts,Crypto needs stability,1,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Finance and Insurance,6,Personal finance app,11.0,Lost to Mint/Acorns and sold to Goldman,Finance apps need edge,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,5,Mobile wallet,30.0,No product vs Apple Pay/PayPal,Execution over promises,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,1.0
+Finance and Insurance,2,NFT marketplace,0.0,Lost to OpenSea and NFT crash,NFTs need timing,1,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Finance and Insurance,10,Crowdfunding for startups,20.0,Lost to Kickstarter and low ROI,Crowdfunding needs hits,1,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Finance and Insurance,6,Prepaid card payments,5.0,Lost to Green Dot and small scale,Prepaid needs reach,1,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Finance and Insurance,5,Personal crowdfunding,10.0,Lost to GoFundMe and niche focus,Personal funding needs appeal,1,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Finance and Insurance,8,Social sentiment for trading,15.0,Lost to Bloomberg and low uptake,Trading tools need traction,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,9,Loans for subprime borrowers,350.0,Regulatory fines and OppLoans competition,Fintech can’t skirt regs,1,0,1,0,0,0.0,0,0,0,0,1.0,1.0,0.0
+Finance and Insurance,15,P2P lending platform,1000.0,Lost to banks and trust issues,P2P needs trust,1,0,1,0,0,0.0,0,0,0,0,1.0,0.0,0.0
+Finance and Insurance,4,Coding bootcamp loans,0.4,Lost to Affirm and sold,Small niches get swallowed,1,0,1,0,1,0.0,0,1,0,0,0.0,0.0,0.0
+Finance and Insurance,10,Commission-free brokerage,30.0,Lost to Robinhood and closed,Brokerages need volume,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,8,Real estate lending platform,10.0,Lost to Fundrise and slow growth,Lending needs scale,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,3,Financial data aggregator,3.0,Lost to Bloomberg and early market,Timing is key,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,9,Mobile payments platform,185.0,Lost to Square and mismanagement,Payments need execution,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Finance and Insurance,6,Online pawn lending,6.0,Lost to traditional pawnshops and niche,Niche lending needs demand,0,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Finance and Insurance,5,Biometric payments,300.0,Lost to PayPal and tech issues,Biometrics need reliability,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Finance and Insurance,5,Digital estate planning,2.0,Lost to LegalZoom and low uptake,Estate tech needs traction,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,4,Payment gateway,1.0,Lost to Stripe and sold,Payments need scale,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,7,Debt management app,5.0,Lost to Credit Karma and sold,Debt tools need edge,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,15,Prepaid debit card,20.0,Lost to Chime and trust issues,Prepaid needs trust,1,0,1,0,0,0.0,0,0,0,0,1.0,0.0,0.0
+Finance and Insurance,5,Small biz banking,5.0,Lost to Brex and closed,Banking needs scale,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,4,Personal finance for gig workers,4.0,Lost to Even and niche,Niche finance needs reach,1,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Finance and Insurance,11,Robo-advisor,70.0,Lost to Wealthfront and sold,Robo-advisors need edge,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,7,Neobank with budgeting,25.0,Lost to Chime/Ally and shut post-BBVA sale,Neobanks need independence,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,11,Financial planning tools,161.0,Lost to NerdWallet and slow growth,Planning needs traction,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,5,Social finance platform,0.0,Lost to Robinhood and niche,Social finance needs scale,1,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Finance and Insurance,7,P2P payments (early),0.0,Lost to Venmo and pivoted,Payments need dominance,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,13,Supply chain finance,200.0,Lost to Coupa and sold,Finance needs edge,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,6,Social crowdfunding,67.0,Lost to GoFundMe and sold,Crowdfunding needs mass,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,12,Personal finance app,1.0,Lost to Mint and low scale,Finance apps need reach,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,4,Crowdfunded trusts,0.5,Lost to traditional trusts and niche,Niche needs demand,0,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Finance and Insurance,11,AI-driven lending,144.0,Lost to banks and high defaults,Lending needs stability,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,6,Income-share agreements,20.0,Lost to Lambda School and regs,ISAs need traction,1,0,1,0,0,0.0,0,0,0,0,0.0,1.0,0.0
+Finance and Insurance,5,Group payments feature,0.0,Lost to Splitwise and niche,Niche payments need use,1,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Finance and Insurance,7,Student microloans,5.0,Lost to SoFi and low scale,Microloans need reach,1,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Finance and Insurance,5,High-yield savings,0.0,Lost to Ally and pivoted,Savings need edge,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,12,Payment processing,75.0,Lost to Stripe and sold,Payments need scale,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,5,Personal finance app,4.0,Lost to Mint and early market,Timing matters,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,12,International transfers,689.0,Lost to PayPal and high costs,Transfers need edge,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,6,Accounts receivable automation,15.0,Lost to Bill.com and sold,Automation needs scale,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,12,Financial data platform,15.0,Lost to Bloomberg and sold,Data needs dominance,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Finance and Insurance,11,AI underwriting loans,112.0,Lost to Upstart and regs,Lending needs compliance,1,0,1,0,0,0.0,0,0,0,0,0.0,1.0,0.0
+Health Care,4,Personalized asthma/allergy app,12.0,Small user base and cash shortage,Niche apps need big audiences,0,1,1,1,0,0.0,1,1,0,0,0.0,0.0,0.0
+Health Care,8,Doctor search and cost estimation,45.0,Lost to Zocdoc/GoodRx and slow adoption,Narrow focus beats broad,1,0,1,1,0,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,4,Personalized health coaching,50.0,High costs and low demand,Premium needs mass market,0,1,0,1,0,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,12,Remote medical scribes,150.0,Lost to software rivals and acquired,Flexibility beats rigidity,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,4,Telemedicine for hospitals,32.0,Outpaced by bigger rivals and acquired,Niche needs a moat,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,10,AI-powered telemedicine,635.0,Overexpansion and losses,Quality must match scale,1,1,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Health Care,2,Health smartwatch,30.0,Overheating and competition,Reliability is make-or-break,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Health Care,7,Mental health for employees,4.5,Crowded market and no differentiation,Unique value is critical,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,4,Online therapy (early),31.0,Trust issues and competition,Trust comes first,1,0,1,1,0,0.0,0,0,0,0,1.0,0.0,0.0
+Health Care,6,Stress monitoring wearable,7.0,Lost to bigger players and acquired,Standout use case needed,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,4,Telemedicine for nursing homes,34.0,Slow growth and high costs,Execution must scale,0,1,0,1,0,0.0,1,0,1,0,0.0,0.0,0.0
+Health Care,5,Heart rate analysis app,2.0,Monetization and differentiation woes,Validation is key,1,1,1,1,0,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,7,Care coordination platform,48.0,No payer contracts and revenue,Need payer buy-in,0,1,0,1,0,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,7,Medication management app,161.0,Lost to free tools and sold,Defensible revenue matters,1,0,1,0,1,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,4,AI eye diagnostics,20.0,Lost to IDx and regulatory delays,Regulatory wins are key,1,0,1,0,0,0.0,0,0,1,0,0.0,1.0,0.0
+Health Care,5,Mobile wallet (health-adjacent),30.0,Leadership and no product,Execution over promises,0,0,0,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Health Care,10,At-home diagnostics,404.0,Post-COVID crash and costs,Plan for cycles,0,1,0,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Health Care,4,Behavioral tech for apps,2.5,Lost focus and faded,Focus wins in health,0,0,0,1,0,0.0,0,0,1,0,0.0,0.0,0.0
+Health Care,5,Free telemedicine (early),5.0,Free model unsustainable,Monetization is key,1,1,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,0,Cancer trial matching,0.0,Bad pricing and funding,Validate willingness to pay,0,1,0,1,0,0.0,1,0,0,0,0.0,0.0,1.0
+Health Care,4,Alzheimer’s therapeutic,3.0,Small market and funding,Niche needs deep pockets,0,1,0,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Health Care,13,Hearing aids,316.0,Fraud allegations and competition,Trust is king,1,0,1,0,0,0.0,0,0,0,0,1.0,0.0,0.0
+Health Care,2,Fitness app,5.0,Lost steam and acquired,Killer edge needed,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,10,Mental health support,220.0,High costs and merged,Profitability matters,1,1,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,7,Precision kidney meds,209.0,Funding dried up and slow progress,Timing is critical,0,1,0,0,0,0.0,0,0,1,1,0.0,0.0,0.0
+Health Care,9,AI for rare diseases,110.0,Funding crunch and slow results,Deliver or downsize,0,1,0,0,0,0.0,0,0,1,1,0.0,0.0,0.0
+Health Care,9,Health-based insurance,136.0,Risk models and scrutiny,Math and compliance matter,0,0,0,0,0,0.0,0,0,1,0,1.0,1.0,0.0
+Health Care,4,Posture wearable,8.0,Lost to Fitbit and costs,Mass appeal needed,1,1,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Health Care,4,Telemedicine kiosks,43.0,Lost to software rivals,Flexibility beats rigidity,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,7,Subscription telemedicine,88.0,Low retention and pivot,Sticky engagement needed,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,7,Fitness app (early),125.0,Slow retention and pivot,Evolve or lose,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,18,Telemedicine robots,78.0,Scalability issues and sold,Plan for acquisition,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,9,Heart monitoring patch,150.0,Reimbursement woes early,Payer alignment is key,0,0,0,1,0,0.0,1,0,1,0,0.0,0.0,0.0
+Health Care,11,Fitness trackers,930.0,Competition and quality issues,Differentiate or die,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Health Care,8,Cancer symptom tracking,6.0,Slow adoption and acquired,Traction matters,0,0,0,1,1,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,5,Doctor matching (early),153.0,Lack of traction and pivot,Validate demand early,0,0,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,6,Digital mental health,21.0,Slow adoption and misjudgment,Plan for long cycles,0,0,0,1,0,0.0,1,0,0,0,0.0,0.0,1.0
+Health Care,5,AI drug repurposing,26.0,Slow results and pivot,Quick wins matter,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,1.0
+Health Care,4,AI skincare diagnostics,12.0,Crowded market and cash out,Validate niche early,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,18,Care orchestration,92.0,Slow sales and wind-down,Budget for long runways,0,0,0,1,0,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,3,Blockchain medical records,15.0,Lost to Epic and crypto crash,Real-world buy-in needed,1,1,1,1,0,0.0,0,0,0,1,0.0,0.0,0.0
+Health Care,6,Smart pill dispenser,5.0,High costs and low uptake,Simple beats complex,0,1,0,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Health Care,9,Mental health via data,160.0,No actionable insights,Prove outcomes,1,0,1,1,0,0.0,1,0,0,0,0.0,0.0,1.0
+Health Care,6,Mental health for employees,167.0,Layoffs and valuation cuts,Growth must match fundamentals,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Health Care,5,Telehealth birth control,115.0,Reg hurdles and competition,Scale and compliance,1,0,1,0,0,0.0,0,0,0,0,0.0,1.0,0.0
+Health Care,11,AI healthcare automation,856.0,Downturn and mismanagement,Adapt to shifts,0,1,0,0,0,0.0,0,0,1,1,0.0,0.0,0.0
+Health Care,5,Diabetes prevention (early),550.0,Slow payer adoption and pivot,Payers drive success,0,0,0,1,0,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,5,Portable dialysis (early),200.0,Production snags and competition,Flawless execution needed,1,1,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Health Care,10,Digital therapeutics,409.0,Reimbursement woes,Therapeutics need economics,1,0,1,1,0,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,5,Pre-sorted meds delivery,118.0,Profitability woes and sold,Scale or get gobbled,0,0,0,0,1,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,16,Ingestible sensors,500.0,Failed partnership and costs,Don’t bet on one partner,0,1,0,0,0,0.0,0,0,1,0,0.0,1.0,0.0
+Health Care,6,Quit smoking app,77.0,Low retention and adoption,Stickiness beyond novelty,0,0,0,1,0,0.0,1,0,0,0,0.0,0.0,0.0
+Health Care,4,Home vitals device,35.0,Regulatory delays and competition,Speed to market matters,1,0,1,0,0,0.0,0,0,0,0,0.0,1.0,0.0
+Health Care,7,Virtual primary care,22.0,Slow uptake and sold,Big clients fast,1,0,1,1,1,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,4,Healthy meal delivery,56.0,High costs and competition,Need cost advantage,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Health Care,3,Digital stethoscope,1.5,Distribution and funding,Mission needs business model,0,1,0,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Health Care,15,Blood testing tech,1400.0,Fraud and tech didn’t work,Transparency is key,0,0,0,0,0,0.0,0,0,0,0,1.0,0.0,1.0
+Health Care,7,Tinnitus treatment app,6.0,Limited proof and market,Evidence matters,1,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Health Care,7,Microbiome testing,105.0,Fraudulent billing,Ethics are non-negotiable,0,0,0,0,0,0.0,0,0,0,0,1.0,0.0,0.0
+Health Care,5,Sleep tracking headband,30.0,Competition and no viable model,Broad appeal needed,1,0,1,1,0,0.0,1,1,0,0,0.0,0.0,0.0
+Manufacturing,7,Drone hardware/software for industry,70.0,Lost to DJI and high costs,Drones need simplicity,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,9,AI-powered toy robots,200.0,High costs and competition from Lego/Sphero,Consumer hardware needs mass pricing,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,6,Three-wheeled electric vehicles,40.0,Lost to Tesla and quirky design,EVs need mainstream appeal,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,11,Tethered industrial drones,39.0,Small market and lost to DJI/Skydio,Hardware niches need big adopters,1,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Manufacturing,5,Smart locks and doorbells,73.0,Lost to Ring/Nest and acquired,Smart home needs ecosystem power,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,7,Open-source computers,5.0,Lost to Raspberry Pi and small niche,Open-source needs community,1,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Manufacturing,6,EVs with swappable batteries,850.0,Lost to Tesla and high infra costs,Infra needs buy-in,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,9,Handheld ultrasound device,400.0,Lost to GE/Philips and slow adoption,Medical hardware needs fast inroads,1,1,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,9,Modular toy robots,10.0,Lost to Lego/Sphero and niche focus,Edtech needs scale,1,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Manufacturing,2,Electric vehicle,2700.0,Lost to Tesla/Nio and high costs,EVs are a giant’s game,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,1.0
+Manufacturing,11,Cheap three-wheeled car,30.0,Lost to Toyota/Honda and delays,Cheap cars need delivery,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Manufacturing,5,Premium smartphones,330.0,Poor sales vs Apple/Samsung,Smartphone giants are unbeatable,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,1.0
+Manufacturing,9,Luxury electric vehicles,3500.0,Mismanagement and Tesla/Rivian competition,EV hype needs execution,1,1,1,0,0,0.0,0,0,1,0,0.0,0.0,1.0
+Manufacturing,6,Luxury hybrid-electric cars,1400.0,Lost to Tesla and supplier failure,Luxury EVs need reliability,1,1,1,0,0,1.0,0,0,1,0,0.0,0.0,0.0
+Manufacturing,3,Consumer drone,200.0,Lost to DJI and recall issues,Drones need perfection,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Manufacturing,5,Sleep-tracking orb,40.0,Lost to Fitbit/Apple Watch,Sleep tech must be wearable,1,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Manufacturing,11,Fitness trackers/speakers,930.0,Competition and quality issues,Fitness hardware needs quality,1,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Manufacturing,4,Wi-Fi juicer,120.0,Overkill product vs Ninja/Breville,Hardware must solve real problems,1,1,1,0,0,0.0,0,0,1,1,0.0,0.0,0.0
+Manufacturing,7,Multi-lens camera,70.0,Smartphones caught up,Cameras can’t outrun trends,1,1,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Manufacturing,4,Self-flying drone camera,1534.0,Couldn’t deliver vs DJI,Don’t overpromise hardware,1,1,1,0,0,0.0,0,0,1,0,0.0,0.0,1.0
+Manufacturing,12,Light-field cameras,200.0,Smartphones matched it vs Canon/Nikon,Cameras can’t beat smartphones,1,1,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Manufacturing,8,Desktop 3D printers,413.0,Lost to Ultimaker/Prusa post-acquisition,3D printing needs precision,1,0,1,0,1,0.0,0,0,1,0,0.0,0.0,0.0
+Manufacturing,7,IoT water sensors,3.0,Niche market vs Hach,IoT needs a big niche,1,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Manufacturing,3,Car rearview cameras,50.0,Lost to Tesla/Ford built-ins,Auto tech must beat OEMs,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,4,Smartwatches,40.0,Lost to Apple Watch and sold,Smartwatches need ecosystems,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,10,LiDAR for autonomous vehicles,160.0,Lost to Velodyne/Luminar and delays,LiDAR needs booming market,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,10,Collaborative robots,150.0,Lost to Universal Robots/Fanuc,Robotics demands ROI,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,3,AR motorcycle helmets,15.0,Mismanagement and no product vs Nolan/Shoei,AR needs execution,1,1,1,0,0,0.0,0,0,1,0,0.0,0.0,1.0
+Manufacturing,8,Gesture-control armband,135.0,Lost to Leap Motion/Oculus and sold,Wearables need a killer app,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Manufacturing,8,Robotic pizza systems,375.0,High costs vs Domino’s/Papa John’s,Food tech needs efficiency,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,3,Fashion swapping app,0.5,Shut down 2013 and low retention and funding fell through,Retention is king,0,1,0,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,7,Curated luxury goods marketplace,20.0,Closed 2017 and high marketing costs and lost to Amazon,Niche doesn't defend,1,0,1,0,0,0.0,1,1,0,0,0.0,0.0,0.0
+Retail Trade,10,E-book retailer for romance novels,1.0,Closed 2016 and financial losses and lost to Kindle,Adapt or die,1,1,0,0,0,0.0,1,0,1,0,0.0,0.0,0.0
+Retail Trade,6,Online auction house for art and luxury,95.0,Shut down 2018 and high costs and lost to eBay and valuation scandal,Trust and economics matter,1,0,1,0,0,0.0,0,0,1,0,1.0,0.0,0.0
+Retail Trade,5,Indie e-commerce bookstore for poetry,0.5,Closed 2017 and couldn't scale and lost to Amazon,Niche retail bleeds,1,1,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,4,Peer-to-peer used car marketplace,150.0,Shut down 2017 and high shipping costs and cash burned out,Costs can kill,1,1,0,0,0,0.0,1,0,1,0,0.0,0.0,0.0
+Retail Trade,8,Bulk e-commerce platform,326.0,Bankruptcy 2021 and lost to Amazon and high shipping costs,Scale trumps convenience,1,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Retail Trade,7,Blockchain health data marketplace,5.8,Faded 2022 and low adoption and lost to data brokers,Tech alone doesn't sell,0,0,1,1,0,0.0,0,1,0,0,0.0,1.0,0.0
+Retail Trade,6,Online car-buying platform,15.0,Closed 2015 and dealers resisted and cash ran dry,Resistance stalls disruption,0,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,3,Subscription jewelry rental service,2.0,Shut down 2018 and low demand and lost to Stitch Fix,Niche needs traction,0,0,1,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,4,E-commerce for Chinese gadgets,1.0,Closed 2017 and lost to Amazon and shipping delays,Speed beats novelty,1,1,0,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Retail Trade,8,Online menswear brand,35.0,Bankruptcy 2020 and overexpansion and quality issues,Quality over growth,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Retail Trade,13,Discount e-commerce app (Wish),1800.0,Faded 2023 and low-quality goods and lost to Amazon,Cheap doesn't last,1,0,1,0,0,0.0,0,0,0,1,1.0,0.0,0.0
+Retail Trade,4,Online furniture rental service,4.0,Shut down 2018 and soft demand and high logistics costs,Niche needs a hook,0,1,0,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,3,Curated online grocery platform,3.0,Closed 2016 and local limits and lost to Instacart,Local limits growth,1,1,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,5,Online home decor retailer,20.0,Shut down 2018 and overexpansion and lost to Wayfair,Cash burn kills curation,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Retail Trade,11,Alcohol delivery app,120.0,Sold 2021 and faded 2023 and Uber struggled with regs,Regs and giants choke,1,0,1,0,1,0.0,0,0,0,0,0.0,1.0,0.0
+Retail Trade,7,Wine e-commerce and discovery app,7.0,Closed 2019 and lost to Wine.com and low margins,Niche needs volume,0,0,1,0,0,0.0,1,1,0,0,0.0,0.0,0.0
+Retail Trade,4,Eco-friendly baby products e-commerce,12.0,Shut down 2013 and mismanagement and lost to Amazon,Execution beats ethos,1,1,0,0,0,0.0,0,0,1,0,1.0,0.0,0.0
+Retail Trade,6,Digital art screens retailer,6.0,Closed 2020 and niche demand and lost to TVs,Hardware's a gamble,1,1,0,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,7,Flash-sale design retailer,336.0,Sold 2018 and overexpansion and lost to Amazon,Growth needs profit,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,1.0
+Retail Trade,9,Social e-commerce platform,80.0,Faded 2019 and low conversion and lost to Amazon,Curation needs cash flow,1,0,0,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Fashion advice app,5.0,Closed 2014 and low engagement and lost to Instagram,Social needs stickiness,1,0,0,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,10,Mobile marketing for retail apps,17.0,Faded 2018 and lost to Google/Facebook ads,Giants own ads,1,1,0,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Retail Trade,4,Local food surplus marketplace,2.0,Closed 2017 and low adoption and lost to DoorDash,Supply needs demand,1,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Gourmet food e-commerce,250.0,Shut down 2016 and high costs and sold off,Luxury needs volume,0,0,0,0,1,0.0,1,1,0,0,0.0,0.0,0.0
+Retail Trade,7,Gourmet food delivery service,33.0,Sold 2019 and shipping costs and lost to DoorDash,Logistics eat profits,1,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Retail Trade,11,Online grocery delivery,200.0,Scaled back 2022 and high costs and lost to Amazon Fresh,Freshness costs,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Retail Trade,11,Snack subscription box,10.0,Sold 2019 and faded 2020 and lost to Amazon,Subscriptions need stickiness,1,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,4,Real-time deal app,950.0,Phased out 2015 and low need and lost to Yelp,Timing trumps deals,1,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Retail Trade,9,Online interior design service,85.0, Startup phase   shut down   2023 and lost to Wayfair ,Scale beats service,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Skincare e-commerce and spas,25.0,Closed 2023 and lost to Sephora and high costs,Personalization's pricey,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Retail Trade,8,Collectibles marketplace,8.0,Faded 2022 and too niche and lost to eBay,Niche needs traffic,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,4,On-demand cleaning service,40.0,Shut down 2016 and legal issues and lost to Handy,Service needs trust,0,0,1,0,0,0.0,0,0,1,0,1.0,1.0,0.0
+Retail Trade,4,Sleep products e-commerce,5.0,Closed 2020 and lost to Casper and low scale,Niche needs edge,0,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,11,Cashback rewards app,13.0,Faded 2022 and lost to Rakuten and low retailer uptake,Loyalty needs scale,0,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Interactive shopping platform,2.0,Closed 2015 and lost to Amazon and low adoption,Innovation needs buyers,1,1,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Smoking accessories e-commerce,1.0,Closed 2015 and lost to Amazon and niche limits,Niche needs volume,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,12,Beauty subscription box,100.0,Faded 2023 and lost to Sephora and saturated market,Subscriptions saturate,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Fashion rental marketplace,3.0,Closed 2018 and lost to Rent the Runway and low demand,Rentals need pull,0,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,12,Fashion subscription service,76.0,Faded 2022 and billing complaints and lost to Nordstrom,Trust trumps trends,1,0,1,0,0,0.0,0,0,0,0,1.0,0.0,0.0
+Retail Trade,6,Mobile deals marketplace,5.0,Closed 2018 and lost to Groupon and low scale,Deals need reach,0,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,4,Urban free delivery service,110.0,Closed 2002 and free delivery killed margins and dot-com bust,Free's a trap,1,1,0,0,0,0.0,1,0,0,1,0.0,0.0,1.0
+Retail Trade,8,Wine flash-sale site,10.0,Faded 2018 and lost to Wine.com and low margins,Niche needs profit,0,0,1,0,0,0.0,1,1,0,0,0.0,0.0,0.0
+Retail Trade,10,Fashion e-commerce in Turkey,15.0,Closed 2018 and lost to local rivals and high costs,Local giants win,0,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Retail Trade,10,Group-buy electronics retailer,20.0,Faded 2022 and lost to Amazon and niche limits,Niche caps growth,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,9,Hair extension e-commerce,40.0,Faded 2022 and lost to Amazon and high costs,Niche needs scale,1,0,0,0,0,0.0,0,1,1,0,0.0,0.0,0.0
+Retail Trade,9,Korean beauty subscription,60.0,Faded 2021 and lost to Sephora and saturated market,Beauty saturates,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,15,Indie fashion e-commerce,80.0,Sold 2017 and faded 2020 and Walmart diluted it,Identity matters,1,0,0,0,1,0.0,0,0,1,0,0.0,0.0,0.0
+Retail Trade,4,Used furniture marketplace,22.0,Closed 2017 and logistics costs and lost to eBay,Logistics sink niches,1,1,0,0,0,0.0,1,1,0,0,0.0,0.0,0.0
+Retail Trade,11,Fast-fashion e-commerce,160.0,Bankruptcy 2017 and mismanagement and lost to ASOS,Growth needs control,0,0,1,0,0,0.0,0,0,1,0,1.0,0.0,0.0
+Retail Trade,10,Home decor e-commerce,225.0,Sold 2019 and lost to Wayfair and high costs,Scale beats decor,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Retail Trade,5,AI shopping assistant app,10.0,Closed 2020 and lost to Amazon and low adoption,AI needs buyers,1,0,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,9,Activewear e-commerce,75.0,Faded 2022 and lost to Lululemon and overexpansion,Fashion needs edge,0,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Retail Trade,9,Peer-to-peer rental marketplace,5.0,Faded 2021 and low uptake and lost to eBay,Rentals need scale,1,0,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,8,Pet tech e-commerce,13.0,Faded 2020 and lost to Amazon and niche limits,Niche caps tech,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,2,Online pet supply retailer,300.0,Shut down 2000 and high shipping costs and dot-com bust,Margins beat hype,1,1,0,0,0,0.0,1,0,0,1,0.0,0.0,1.0
+Retail Trade,6,Kids' clothing subscription,8.0,Closed 2020 and lost to Amazon and low demand,Niche needs kids,1,0,0,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,7,Mom-focused deal site,10.0,Faded 2017 and lost to Groupon and deal fatigue,Deals fade fast,0,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Retail Trade,6,Lifestyle e-commerce,15.0,Faded 2021 and lost to Amazon and low scale,Lifestyle needs reach,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,8,UK fashion resale marketplace,70.0,Faded 2020 and lost to Depop and low UK traction,Resale needs local,0,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,10,Crowd-sourced product retailer,79.0,Bankruptcy 2019 and high costs and lost to Amazon,Crowds don't profit,1,0,0,0,0,0.0,0,0,1,1,0.0,0.0,1.0
+Retail Trade,9,Gift card marketplace,60.0,Faded 2022 and lost to Amazon and low margins,Gift cards need scale,1,0,0,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Retail Trade,6,UK fashion rental service,500.0,Faded 2021 and lost to local rivals and low demand,Rentals need fit,0,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,8,UK coupon platform,300.0,Faded 2020 and lost to local sites and deal fatigue,Coupons fade too,0,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Retail Trade,4,Sample product marketplace,2.0,Closed 2017 and lost to Amazon and low scale,Samples need reach,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,3,Social selling app,1.0,Closed 2016 and lost to eBay and low uptake,Social needs buyers,1,0,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,12,POS for small retailers,35.0,Faded 2020 and lost to Square and low scale,POS needs giants,0,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,11,Retail rewards app,15.0,Faded 2020 and sold to Trax and lost to Amazon,Loyalty needs giants,1,1,0,0,1,1.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,8,Boutique e-commerce aggregator,10.0,Faded 2020 and lost to Etsy and low scale,Boutiques need reach,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,11,Shopping tracker app,15.0,Faded 2021 and lost to Amazon and low adoption,Tracking needs pull,1,0,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,6,Fashion marketplace app,65.0,Faded 2019 and lost to Amazon and high costs,Fashion needs scale,1,0,0,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Retail Trade,10,Custom apparel platform,55.0,Faded 2021 and lost to Amazon and low margins,Custom needs profit,1,0,0,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Resale clothing subscription,300.0,Faded 2023 and lost to ThredUp core and low demand,Resale needs core,0,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Indie used book marketplace,5.0,Faded 2020 and lost to Amazon and low scale,Books need giants,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,5,Lifestyle rewards program,10.0,Faded 2018 and lost to Amazon and low uptake,Rewards need pull,1,0,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Organic food subscription,150.0,Faded 2023 and lost to Whole Foods and high costs,Organic needs scale,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Retail Trade,5,Fashion deal site,2.0,Closed 2015 and lost to Gilt and deal fatigue,Deals tire out,0,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Retail Trade,9,Luxury resale marketplace,75.0,Faded 2021 and lost to The RealReal and low scale,Luxury needs reach,0,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,9,Personal styling service,17.0,Shut down 2019 and Nordstrom flopped and lost to Stitch Fix,Curation needs scale,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,4,Try-before-you-buy fashion,10.0,Faded 2022 and lost to Amazon Wardrobe and low adoption,Try needs buyers,1,0,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,3,Online grocery delivery,122.0,Shut down 1999 and overspent on warehouses and dot-com bust,Scale needs demand,1,1,0,0,0,0.0,1,0,1,1,0.0,0.0,1.0
+Retail Trade,3,Kids' clothing subscription,3.0,Closed 2015 and lost to Amazon and low demand,Kids need scale,1,0,0,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,12,Daily deal site,5.0,Sold 2010 and faded 2016 and lost to Amazon and deal fatigue,Deals lose steam,1,0,0,0,1,0.0,0,0,0,1,0.0,0.0,0.0
+Retail Trade,8,Local deal platform,500.0,Faded 2019 and lost to Groupon and deal fatigue,Deals fade out,0,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Retail Trade,6,Local service marketplace,15.0,Faded 2017 and lost to TaskRabbit and low scale,Services need reach,0,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,5,Experimental retail projects,1500.0,Faded 2018 and lost to Amazon core and low impact,Experiments need wins,1,0,0,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Local shopping platform,1500.0,Faded 2020 and lost to Amazon and low uptake,Local needs pull,1,0,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Retail Trade,5,Niche gadget retailer,3.0,Closed 2018 and lost to Amazon and low scale,Gadgets need giants,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Retail Trade,6,Indie e-book retailer,10.0,Faded 2019 and lost to Amazon and low demand,Books need scale,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,2,Educational mobile games for kids,1.5,Shut down in 2012 after chaotic sprint and too many games and no focus and cash ran out,Focus beats frenzy,1,1,0,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Information,11,Early search engine with butler mascot,20.0,Faded by 2007 and lost to Google's algorithm and ad model and sold off,Innovation isn't enough,1,0,0,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,14,Social networking site popular in UK,12.8,Shut down in 2019 and lost to Facebook and AOL mismanagement and sold cheap,Network effects can crush,1,0,0,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Information,2,Check-in app with photo-sharing,0.5,Closed in 2012 but pivoted to Instagram and too cluttered and users didn't care,Pivots can save,0,0,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,6,Collaborative document editing platform,9.0,Shut down in 2017 and lost to Google Docs and Dropbox Paper and no differentiation,Stand out or drown,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,15,Petition platform for activism,50.0, Startup phase   shut down   2022 and monetization alienated users and growth slowed ,Mission drift costs,0,0,0,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,5,App to share data via sound,1.8,Closed in 2016 and niche and no real problem solved and adoption lagged,Cool doesn't equal useful,0,0,0,1,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,15,Big data analytics platform,300.0,Wound down 2023 and lost to AWS and Google BigQuery and went private,Giants eat niches,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,4,Privacy-focused browser,3.0,Shut down 2022 and lost to VPNs and Chrome and trust waned,Trust is currency,1,0,1,0,0,0.0,0,0,0,0,1.0,0.0,0.0
+Information,11,Online coding lessons,42.5, Acquired 2021 and   closed   2022 and free tiers didn't convert and lost to Coursera ,Freemium's a gamble,0,0,1,0,1,0.0,1,0,0,0,0.0,0.0,0.0
+Information,7,Matchmaking for project collaborators,0.75,Shut down 2018 and too niche and lost to GitHub and LinkedIn,Networks need mass,1,1,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,3,Photo-sharing by location,41.0,Closed 2014 and confused users and lost to Instagram and Apple absorbed,Hype can't save fit,1,0,1,1,1,0.0,0,0,0,0,0.0,0.0,1.0
+Information,6,Social networking via Facebook,10.0,Shut down 2016 and lost to Facebook's own features and privacy issues,Don't bet on turf,1,0,0,0,0,1.0,0,0,0,0,1.0,0.0,0.0
+Information,9,Short looping video app,1.0,Closed 2021 and couldn't monetize and lost to TikTok,Timing and scale brutal,1,0,1,0,0,0.0,1,0,0,1,0.0,0.0,0.0
+Information,13,Business intelligence dashboards,690.0,Scaled back 2023 and lost to Tableau and Power BI and high costs,Big bets need wins,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,14,Social news aggregator,45.0,Faded 2018 and redesign tanked and lost to Reddit and sold cheap,User loyalty fragile,0,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Information,7,Ionic mobile app framework,4.2,Closed 2019 and open-source didn't monetize and lost to React Native,Free doesn't pay,0,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,6,Collaborative doc tool,1700.0,Shut down 2021 and lost to Google Docs and Notion,Stick to strengths,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,15,Note-taking app,290.0,Declined 2019 and bloated features and lost to OneNote,Simplicity beats bloat,1,0,1,0,1,0.0,0,0,1,0,0.0,0.0,0.0
+Information,3,On-demand personal assistants,3.3,Shut down 2015 and thin margins and lost to TaskRabbit,Margins matter,0,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,12,Photo-sharing and stock platform,24.0,Shut down 2023 and lost to Getty and Unsplash,Scale beats niche,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,14,Location data platform,104.0,Closed 2022 and merged into Foursquare and lost to Google Maps,Data's only gold if sold,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,7,Anonymous Q&A social app,14.0,Shut down 2016 and bullying scared users and lost to Facebook,Toxicity's a sword,1,0,0,0,0,0.0,0,0,0,0,1.0,0.0,0.0
+Information,7,Check-in app with badges,162.0,Ended 2021 and check-ins faded and lost to Instagram,Trends fade fast,1,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Information,12,Early social network,48.5,Faded 2014 and slow servers and lost to Facebook,Speed and UX trump,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Information,11,Web hosting for personal pages,0.0,Shut down 2005 and Yahoo neglect and lost to blogs,Adapt or atrophy,1,0,0,0,1,0.0,0,0,0,1,0.0,0.0,0.0
+Information,8,Social TV check-in app,24.0,Closed 2016 and Twitter and streaming outpaced and sold off,Niche trends risky,1,0,1,0,1,0.0,0,0,0,1,0.0,0.0,0.0
+Information,12,Social login identity tools,104.6,Ended 2018 and SAP acquisition and lost to Google login,Regs and giants choke,1,0,0,0,1,0.0,0,0,0,0,0.0,1.0,0.0
+Information,7,Podcasting narrative shows,28.5,Sold to Spotify 2021 and couldn't scale profitably,Content's costly,0,0,0,0,1,0.0,1,0,0,0,0.0,0.0,0.0
+Information,5,Location-based social app,10.4,Shut down 2012 and lost to Foursquare and Facebook acquired,Winners take all,0,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,11,Music streaming with uploads,4.9,Shut down 2017 and lawsuits over piracy and lost to Spotify,Legality's key,1,0,1,0,0,0.0,0,0,0,0,0.0,1.0,0.0
+Information,5,Group messaging app,11.5,Acquired 2011 and faded 2015 and stagnated under Skype,Acquisition dead end,0,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,15,Social media management tool,249.9,Scaled back 2023 and lost to Sprout Social and native tools,Cash can't outrun,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Group video chat app,70.0,Shut down 2021 and Epic acquired and lost to Zoom,Peaks don't last,1,0,1,0,1,0.0,0,0,0,1,0.0,0.0,0.0
+Information,12,Cloud collaboration for teams,89.2,Faded 2018 and lost to Slack and Teams and sold off,Ecosystems win,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,8,Streaming for Japan,680.0,Shut down 2019 and sold to Nippon TV and lost to Netflix,Local beats generic,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,12,Automation connecting apps,62.5,Scaled back 2022 and free users didn't pay and lost to Zapier,Free can trap,0,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,11,Digital publishing for e-books,48.0,Closed 2020 and lost to Kindle and Google Books,Niche needs demand,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Live-streaming on Instagram,57.5,Phased out 2021 and lost to TikTok and Meta shifted,Features can fade,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,12,Customer messaging platform,240.8, Startup phase   shut down   2023 and lost to Zendesk ,Giants catch up,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,12,Design collaboration platform,350.0,Scaled back 2023 and lost to Figma and Adobe,Better beats big,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,18,Fitness trackers with data,930.0,Shut down 2017 and lost to Fitbit and buggy tech,Execution outranks cash,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Information,5,AI travel recommendation app,4.4,Closed 2016 and Google bought and couldn't scale solo,Small can sell,0,0,0,0,1,0.0,0,1,0,0,0.0,0.0,0.0
+Information,13,Messaging app for teens,120.5,Shut down 2022 and privacy scandals and lost to WhatsApp,Trust is king,1,0,1,0,0,0.0,0,0,0,0,1.0,0.0,0.0
+Information,12,Adaptive learning platform,182.3,Sold 2020 and overhyped AI and lost to Pearson,Prove the pudding,0,0,1,0,1,0.0,1,0,0,0,0.0,0.0,1.0
+Information,3,Sleek email app,5.3,Shut down 2015 and Dropbox bought and stagnated,Acquisition stalls,0,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,14,DIY tech magazine and events,10.0,Closed 2019 and print declined and events didn't cover costs,Passion doesn't pay,0,1,0,0,0,0.0,1,0,0,1,0.0,0.0,0.0
+Information,6,IoT data processing platform,3.0,Shut down 2020 and lost to AWS IoT and low visibility,Giants dominate IoT,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,3,Mobile apps like Oink,1.5,Closed 2014 and Google bought and Oink flopped,Validate before build,0,0,0,1,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,14,User behavior analytics,277.0, Startup phase   shut down   2023 and lost to Amplitude ,Lead or lose,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,7,Photo and video-sharing app,86.0,Shut down 2017 and lost to Instagram,Stars don't guarantee,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,4,Lip-sync video app,16.1,Merged into TikTok 2018 and couldn't scale solo,Small fish swallowed,1,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,15,Social networking pioneer,12.8,Faded 2018 and lost to Facebook and News Corp mismanaged,UX trumps leads,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Information,9,First big web browser,20.0,Shut down 2003 and lost to Microsoft IE,Titans tilt field,1,0,0,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,2,Platform for journalists,0.5,Closed 2012 and no journalists or readers and misread need,Markets need sides,0,1,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,AI productivity feature,343.0,Phased out 2023 and didn't stand out,Features need identity,0,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,7,News curation via Twitter,5.1,Shut down 2019 and Scroll acquired and lost to Twitter,Platforms evolve,1,0,1,0,1,1.0,0,0,0,0,0.0,0.0,0.0
+Information,8,Private social network,59.0,Closed 2018 and niche and privacy scandal,Privacy's tightrope,1,0,1,0,0,0.0,0,1,0,0,1.0,0.0,0.0
+Information,5,Live-streaming app,1.5645,Shut down 2020 and lost to Instagram Live,Trends shift platforms,1,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Information,15,Photo-hosting site,15.0,Faded 2018 and lost to Instagram and paywall backlash,Don't alienate base,1,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Information,8,UK-specific curation,1500.0,Phased out 2020 and absorbed by global Pinterest,Global trumps silos,1,0,0,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,6,OpenStack cloud software,12.5,Sold 2017 and lost to AWS and OpenStack free,Free kills premium,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,15,Media server streaming,60.0, Startup phase   shut down   2023 and lost to Netflix ,Niche caps growth,1,0,1,0,0,0.0,1,1,0,0,0.0,0.0,0.0
+Information,11,Save-for-later app,14.5, Acquired 2017 and   closed   2018 and lost to Evernote ,Free limits scale,0,0,1,0,1,0.0,1,0,0,0,0.0,0.0,0.0
+Information,7,News reader app,10.0,Sold to LinkedIn 2013 and faded 2017 and lost to Flipboard,Buyers can bury,0,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,6,Professional networking links,0.75,Shut down 2019 and too niche and lost to LinkedIn,Niche needs scale,1,1,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,12,AI trend analytics,79.0,Merged 2020 and lost to Google Trends,Differentiation's key,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,8,Mobile app search engine,165.0,Shut down 2017 and lost to Apple/Google search,Solve a real pain,1,0,0,0,0,0.0,0,0,0,1,0.0,0.0,1.0
+Information,11,Lyrics annotation site,56.8,Pivoted 2020 and couldn't monetize and lost to Spotify,Monetize or fade,1,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,6,Reading app with subscriptions,1.0,Shut down 2015 and lost to Pocket's free model,Free wins over paid,0,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,5,Social CRM app,10.0, Acquired 2015 and   closed   2016 and lost to LinkedIn ,Big fish eat ideas,1,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,10,Open-source database,12.2,Shut down 2019 and couldn't monetize and lost to MongoDB,Open source needs pay,0,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,6,GIF search engine,13.0, Acquired 2018 and   closed   2019 and lost to Gboard ,Small gets scooped,1,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Social browser,40.0,Shut down 2014 and lost to Chrome and Yahoo bought,Simple beats quirky,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,4,Anonymous social app,35.0,Shut down 2018 and toxicity scared users and lost to Whisper,Anonymity's messy,0,0,1,0,0,0.0,0,0,0,0,1.0,0.0,0.0
+Information,13,Social sharing widget,64.0,Faded 2020 and lost to native sharing,Platforms steal thunder,1,0,0,0,0,1.0,0,0,0,0,0.0,0.0,0.0
+Information,10,Mood-based music streaming,6.7, Acquired 2014 and   closed   2017 and lost to Spotify ,Small fries eaten,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,6,Paid streaming tier,543.0,Phased out 2022 and free users didn't convert,Free roots deep,1,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,4,Social music tracking,2.5,Shut down 2016 and lost to Spotify,Crowds beat cults,1,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,6,AI workplace chatbot,28.0,Closed 2021 and lost to Slack bots,Giants gobble niches,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,3,Local newsletter funding,82.4,Shut down 2023 and costly and low readership,Local's tough sell,0,0,0,0,0,0.0,1,1,0,0,0.0,0.0,0.0
+Information,11,Video chat with games,367.0,Faded 2020 and lost to Zoom,Cash can't crowd out,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Social Q&A app,2.5,Shut down 2014 and didn't catch on,Pedigree isn't enough,0,0,0,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,9,Video chat rooms,1.5,Faded 2018 and lost to Zoom,Basics beat quirky,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Group hangout feature,50.0,Shut down 2021 and confused users,Stick to your lane,0,0,1,1,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,11,Video chat platform,26.0, Acquired 2012 and   closed   2018 and lost to Zoom ,APIs eat pioneers,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,13,Classroom engagement tools,130.7, Startup phase   shut down   2022 and lost to Google Classroom ,Niche edtech ceilings,1,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,14,Local news aggregator,15.0,Shut down 2018 and lost to Facebook,Social kills local,1,0,0,0,0,0.0,0,0,0,1,1.0,0.0,0.0
+Information,5,Premium project management,10.0,Phased out 2022 and free sufficed,Free trumps upsell,0,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,13,Microblogging platform,125.0,Faded 2020 and Yahoo mismanaged and porn ban,Mismanagement burns,1,0,0,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Information,11,Online coding school,24.6,Sold 2022 and lost to free resources,Free eats paid,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,6,Paid radio streaming,147.5,Phased out 2021 and free users didn't pay,Free roots stifle,1,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,8,Email API service,80.9, Startup phase   shut down   2023 and lost to Mailchimp ,Giants crowd out,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,6,Developer toolkit,645.0,Shut down 2020 and Google bought parts,Focus drifts kill,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,2,Music discovery app,645.0,Shut down 2015 and lost to Spotify,Stick to core,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Freelance gig platform,163.0,Shut down 2022 and lost to Upwork,Extensions need traction,0,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,2,Video streaming service,2125.0,Shut down 2015 and lost to Netflix,Timing's everything,1,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Information,5,Short-video app,645.0,Shut down 2017 and Twitter neglected and lost to Snapchat,Neglect kills hits,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,First spreadsheet software,0.5,Faded 1984 and lost to Lotus 1-2-3,Innovate or die,0,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Information,8,Anonymous social app,61.0,Faded 2020 and toxicity and lost to Snapchat,Anonymity's gamble,1,0,1,0,0,0.0,0,0,0,0,1.0,0.0,0.0
+Information,9,Celeb social platform,12.0,Shut down 2019 and lost to X,Middlemen get cut,1,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,8,Secure messaging app,73.0, Acquired 2020 and   closed   as standalone and lost to Signal ,Privacy's crowded,0,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,6,Polling app for teens,8.0,Faded 2019 and lost to Instagram Stories,Fads burn out,1,0,1,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+Information,5,Dating app for pros,1.5,Closed 2018 and lost to Tinder,Giants rule dating,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,10,HR hiring software,84.0, Startup phase   shut down   2022 and lost to Lever ,Scale or stall,0,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,8,Bookmark sync tool,2.0,Shut down 2014 and lost to browser sync,Tech shifts bury,1,0,0,0,1,0.0,0,0,0,1,0.0,0.0,0.0
+Information,7,Email plugin,41.8, Acquired 2013 and   closed   2013 and lost to Gmail ,Features swallow,1,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,15,Q&A platform,1000.0,Shut down 2020 and spam and lost to Quora,Quality beats chaos,0,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Information,4,Social news aggregator,1000.0,Closed 2012 and lost to Digg,Latecomers lose,0,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,15,Online community forums,1000.0,Shut down 2013 and Yahoo neglect,Neglect kills legacy,1,0,1,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Information,2,Live-streaming platform,1000.0,Shut down 2010 and low adoption,Timing's critical,0,0,0,1,0,0.0,0,0,0,1,0.0,0.0,0.0
+Information,10,Enterprise social network,142.0, Acquired 2012 and   closed   2018 and lost to Slack ,Buyouts can bury,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Anonymous local social app,73.5,Shut down 2018 and toxicity and lost to Snapchat,Anonymity's beast,1,0,1,0,1,0.0,0,0,0,0,1.0,0.0,0.0
+Information,4,Minimalist messaging app,1.5,Faded 2018 and novelty and no depth,Gimmicks don't last,0,1,0,1,0,0.0,0,0,0,0,0.0,0.0,1.0
+Information,13,Website builder,25.0,Faded 2020 and lost to Wix,Polish beats early,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,11,Live-streaming app,30.0,Faded 2022 and lost to Twitch,Scale owns live,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Premium automation tier,1.4,Phased out 2023 and free sufficed,Free caps premium,0,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,7,Video encoding service,2.0, Acquired 2012 and   closed   2017 and lost to Brightcove ,Small exits fast,0,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,8,Live chat tool,85.5,Phased out 2023 and lost to Intercom,Features fade,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,12,File-sharing platform,1.0,Faded 2019 and lost to Dropbox,Free evolves fast,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Zombie-themed mobile games,1.5,Shut down 2020 and lost to Supercell,Giants crush niches,1,1,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,9,Data visualization tool,47.2,Sold 2021 and lost to Tableau,Ecosystems win,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,8,Live chat widget,3.0, Acquired 2014 and   closed   2016 and lost to Zendesk ,Small sells,0,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Cloud security analytics,33.0,Phased out 2023 and lost to CrowdStrike,Sidekicks fade,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,10,Flash sales platform,138.0,Sold 2019 and lost to Amazon,Deals die fast,1,0,1,0,1,0.0,0,0,0,1,0.0,0.0,0.0
+Information,7,Predictive pizza analytics,375.0,Shut down 2022 and robots flopped,Tech needs results,0,0,0,0,0,0.0,0,0,1,0,0.0,0.0,0.0
+Information,6,Rental listing premium,171.0,Phased out 2021 and free listings won,Free trumps tiers,1,0,1,0,0,0.0,1,0,0,0,0.0,0.0,0.0
+Information,15,Design prototyping tool,1.0,Faded 2013 and lost to Figma,Old tools rust,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,8,Digital kids' storytelling,2.5,Shut down 2017 and lost to Epic!,Kids' tech brutal,1,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,12,Social gaming giant,866.0,Faded 2019 and mobile shift and sold 2022,Platforms shift,1,0,0,0,1,1.0,0,0,0,1,0.0,0.0,0.0
+Information,6,Micropayment platform,1.5,Shut down 2008 and friction and lost to PayPal,Friction kills,1,1,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Social polling app,2.0,Faded 2018 and lost to Instagram Stories,Trends trump toys,1,0,1,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Information,15,Recruitment marketplace,23.5,Faded 2021 and lost to LinkedIn,Scale beats middlemen,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,7,LinkedIn on Facebook,49.0,Shut down 2017 and lost to LinkedIn,Platforms don't mix,1,0,1,0,0,1.0,0,0,0,0,0.0,0.0,0.0
+Information,6,Mobile ad platform,7.3, Acquired 2014 and   closed   2014 and lost to Apple ,Buyouts can end,1,0,0,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Cloud management tool,1.0,Shut down 2012 and lost to AWS,Giants rewrite rules,1,1,0,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,15,Anime streaming platform,4.05,Sold 2021 and lost to Netflix,Niches get nabbed,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,14,Gaming community platform,58.0, Acquired 2016 and   closed   2020 and lost to Discord ,Newcomers steal,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,12,Fitness video app,0.525,Sold 2010 and faded 2019 and lost to Fitbit,Tiny bets fade,1,1,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,9,Fashion subscription boxes,3.5,Faded 2020 and lost to Stitch Fix,Scale trumps style,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,15,Backup and recovery software,100.0,Sold 2022 and lost to Veeam,Giants catch up,0,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,14,Travel management platform,100.0,Sold 2014 and lost to Concur,Old tech rusts,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,6,Audio tour app,3.0,Sold 2019 and shut down and lost to Google Maps,Free beats curated,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Digital content platform,1.0,Closed 2017 and lost to Medium,Giants own content,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Web hosting builder,1.8, Acquired 2015 and   closed   2016 and lost to Netlify ,Small exits quick,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,10,Ad tech identity tracking,46.5,Sold 2021 and privacy regs and lost to Google,Regs reshape ads,1,0,1,0,1,0.0,0,0,0,0,0.0,1.0,0.0
+Information,5,Freelancer review platform,1.2,Closed 2018 and lost to Upwork,Networks need mass,1,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,6,Photo storage app,2.0,Shut down 2019 and lost to Google Photos,Giants own storage,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
+Information,3,Social Q&A app,1.0,Closed 2013 and lost to X,Fads need legs,1,0,0,0,0,0.0,0,0,0,1,0.0,0.0,0.0
+Information,3,Dual-camera photo app,3.0,Shut down 2016 and lost to Instagram,Quirks don't scale,1,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,4,Social gaming app,1.5,Closed 2016 and lost to Candy Crush,Hits beat casual,1,0,1,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,14,DIY animation tool,10.0,Sold 2021 and lost to Powtoon,Scale beats tools,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,4,Sports social app,1.0,Closed 2013 and lost to X,Giants own fandom,1,0,0,0,0,0.0,0,1,0,0,0.0,0.0,0.0
+Information,6,Kids' reading app,2.2,Sold 2019 and lost to Epic!,Kids' ed needs scale,1,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,2,Social check-in app,1.4,Acquired 2011 and shut down and lost to Foursquare,Early exits end,0,0,1,0,1,0.0,0,0,0,0,0.0,0.0,0.0
+Information,5,Content curation platform,1.0,Closed 2017 and lost to Medium,Curation needs clout,1,0,1,0,0,0.0,0,0,0,0,0.0,0.0,0.0
